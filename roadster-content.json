@@ -1,1 +1,22 @@
-{"customEnabled":"true","body-color":"239, 15, 255","body-reflectance":0.3,"window-color":"17, 17, 17","licence-plate":"iMonody_X","licence-decal":"rbxassetid://2835065697","sign-enabled":"false","sign-content":"Nothing.","nitro-enabled":"true"}
+{"customEnabled":"true",
+"bodyColor": [
+ {
+     "r":"239",
+     "g":"15",
+     "b":"255"
+ }
+
+],
+"body-reflectance":0.3,
+"window-color": [
+{
+    "r":"15",
+     "g":"15",
+     "b":"15"
+}
+],
+"licence-plate":"iMonody_X",
+"licence-decal":"rbxassetid://2835065697",
+"sign-enabled":"false",
+"sign-content":"Nothing.",
+"nitro-enabled":"true"}
