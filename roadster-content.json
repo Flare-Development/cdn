@@ -8,4 +8,6 @@
 "sign-content":"Nothing.",
 "headlightsEnabled":true,
 "headlightsColor":"Lime green",
+"purchaseUIEnabled":false,
+"purchaseUIText":"NoContent",
 "nitroEnabled":true}
