@@ -7,7 +7,9 @@
 "sign-enabled":"false",
 "sign-content":"Nothing.",
 "headlightsEnabled":true,
-"headlightsColor":"Lime green",
+"headlightsColor":"Blue",
 "purchaseUIEnabled":false,
 "purchaseUIText":"NoContent",
+"speed":145,
+"turnspeed":3,
 "nitroEnabled":true}
